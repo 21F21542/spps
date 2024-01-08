@@ -1,7 +1,7 @@
 class Circle{
   public stsic void main (String args[]){
-  double radius = 5; 
-  double area  = 3.14 * 5 *5; 
+  double radius = 7; 
+  double area  = 3.14 * 7*7; 
   System.out.println("Radius is : "+radius);
   System.out.println("Area is : " +area);
   }
